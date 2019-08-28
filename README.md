@@ -1,1 +1,1 @@
-# Bumblebee_Core_Doc
+# Please refer to https://github.com/nucleisys/Bumblebee_Core_Doc
